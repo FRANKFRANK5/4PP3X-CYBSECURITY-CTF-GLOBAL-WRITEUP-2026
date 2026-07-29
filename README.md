@@ -1,7 +1,7 @@
 # 🏴‍☠️ 4PP3X-CYBSECURITY-CTF-GLOBAL-WRITEUP-2026
 
 Welcome to my central repository for all my Cybersecurity **Capture The Flag (CTF)** solutions, writeups, and exploitation scripts. This archive tracks my journey, methodologies, and technical breakdowns across both local Tanzanian competitions and global platforms.
-
+* **Home reading writeup-CTF:** https://ctftime.org/writeups
 ---
 
 ### 💡 Core Driving Philosophy
